@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-Main()
+int Main()
 
 {
 	printf("hello boss");
 	return 5;
+
 }
