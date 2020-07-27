@@ -4,5 +4,5 @@ Main()
 
 {
 	printf("hello boss");
-	return ;
+	return 5;
 }
